@@ -1,1 +1,1 @@
-# LE-MUS.KZ
+# LMS.KZ
