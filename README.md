@@ -12,7 +12,7 @@
     <meta name="keywords" content="">
     <title>Travelair Agency HTML Website Template - 404 Page</title>
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="[css/bootstrap.min.css](https://github.com/Rec-ep007/LE-MUS.KZ.git)" rel="stylesheet">
     <!-- Style CSS -->
     <link href="css/style.css" rel="stylesheet">
     <!-- Google Fonts -->
